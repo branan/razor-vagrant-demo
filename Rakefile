@@ -10,7 +10,7 @@ HOSTS = {
 DISTROS = {
   'microkernel' => {
     :type => :mk,
-    :url  => 'https://github.com/downloads/puppetlabs/Razor/rz_mk_dev-image.0.9.0.4.iso',
+    :url  => 'http://cloud.github.com/downloads/puppetlabs/Razor/rz_mk_dev-image.0.9.0.4.iso',
   },
   'ubuntu' => {
     :release => 'ubuntu_precise',
